@@ -11,31 +11,36 @@ experienceLevel:
 jobTypes:
   full-time: true
   contract: false
-  part-time: false
+  part-time: true
   temporary: true
   internship: false
   other: false
   volunteer: true
 
 date:
-  all time: false
+  all time: true
   month: false
   week: false
   24 hours: true
 
 positions:
   - Software engineer
+  - QA
+  - Qa engineer
+  - QA Automation
 
 locations:
-  - Germany
+  - Chile
+  - Santiago
 
 apply_once_at_company: true
 
 distance: 100
 
 company_blacklist:
-  - wayfair
-  - Crossover
+  - Tata
+  - Genesis
+  - Tsoft
 
 title_blacklist:
   - word1
